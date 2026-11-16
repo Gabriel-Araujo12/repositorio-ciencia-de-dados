@@ -3,9 +3,7 @@
 **Disciplina:** Ciências de Dados  
 **Semestre:** 2026.2  
 **Professor:** Andre Luis Fonseca Faustino
-
 **Turma:** T02
-
 **Aluno:** Gabriel Araújo Ribeiro (20240022019)
 
 ## Sumário com as aulas registradas no repositório
