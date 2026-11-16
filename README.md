@@ -6,6 +6,6 @@
 **Turma:** T02
 **Aluno:** Gabriel Araújo Ribeiro (20240022019)
 
-## Referências
+## Sumário com as aulas registradas no repositório
 
   * **AULA 06:** https://oandrefonseca.github.io/data-science/aulas/06-imputacao-normalizacao-dados.html
